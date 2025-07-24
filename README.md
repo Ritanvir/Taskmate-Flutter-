@@ -21,4 +21,5 @@ TaskMate is a modern Flutter app that helps users manage daily tasks with Fireba
 git clone https://github.com/your-username/TaskMate-Flutter-Firebase-App.git
 cd TaskMate-Flutter-Firebase-App
 
-![image alt](https://github.com/Ritanvir/Taskmate-Flutter-/blob/main/project%20taskmate.PNG?raw=true)
+![Alt text](https://github.com/Ritanvir/Taskmate-Flutter-/blob/c40ed62db37c010980c6214bb505bf725efbf857/project%20taskmate.PNG)
+
