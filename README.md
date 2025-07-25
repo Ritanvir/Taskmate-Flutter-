@@ -31,6 +31,5 @@ cd TaskMate-Flutter-Firebase-App
 
 
 
-   ![TaskMate UI](https://github.com/Ritanvir/Taskmate-Flutter-/blob/main/project%20taskmate.PNG)
 
 
